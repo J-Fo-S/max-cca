@@ -1,0 +1,1325 @@
+{
+	"pattrstorage" : 	{
+		"name" : "rectPhaseScenes",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.27188 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.27188 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 20.856842 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.779528 ],
+					"lpassModFreq" : [ 1.055379 ],
+					"pulseModFreq" : [ 0.27188 ],
+					"rampTime" : [ 100.440201 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 0.45841 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 0.45841 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 8.487817 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 0.45841 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 8.487817 ],
+					"delay" : [ 174.728554 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 0.45841 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 8.487817 ],
+					"delay" : [ 502.982597 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 0.45841 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 8.487817 ],
+					"delay" : [ 13.181129 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 5.322363 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 6.449188 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 20.856842 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.779528 ],
+					"lpassModFreq" : [ 1.055379 ],
+					"pulseModFreq" : [ 4.057743 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"12" : 			{
+				"id" : 12,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 3.481052 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 655.961312 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"13" : 			{
+				"id" : 13,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 8.323655 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 8.487817 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"16" : 			{
+				"id" : 16,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 0.45841 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 8.487817 ],
+					"delay" : [ 13.181129 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.360215 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"17" : 			{
+				"id" : 17,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 32.649012 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"18" : 			{
+				"id" : 18,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 15.745087 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"19" : 			{
+				"id" : 19,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 20.856842 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.779528 ],
+					"lpassModFreq" : [ 1.055379 ],
+					"pulseModFreq" : [ 22.022272 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"20" : 			{
+				"id" : 20,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.866142 ],
+					"ampModFreq" : [ 98.749142 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 684.79137 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"21" : 			{
+				"id" : 21,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 125.301515 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 8.487817 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 496.000992 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"24" : 			{
+				"id" : 24,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 0.45841 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 37.720875 ],
+					"delay" : [ 13.181129 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.360215 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"25" : 			{
+				"id" : 25,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 32.649012 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 471.510943 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"26" : 			{
+				"id" : 26,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 1.647641 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.818504 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 15.745087 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"27" : 			{
+				"id" : 27,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 20.856842 ],
+					"delay" : [ 22.77699 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.678189 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.779528 ],
+					"lpassModFreq" : [ 1.055379 ],
+					"pulseModFreq" : [ 22.022272 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"28" : 			{
+				"id" : 28,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.866142 ],
+					"ampModFreq" : [ 98.749142 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 781.891375 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.896457 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 684.79137 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"32" : 			{
+				"id" : 32,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 0.45841 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 37.720875 ],
+					"delay" : [ 13.181129 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.362205 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.360215 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"33" : 			{
+				"id" : 33,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.291339 ],
+					"ampModFreq" : [ 1.398957 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 13.181129 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 32.649012 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 471.510943 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"34" : 			{
+				"id" : 34,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.228346 ],
+					"ampModFreq" : [ 0.893746 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 15.997008 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.818504 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 15.745087 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"35" : 			{
+				"id" : 35,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.480315 ],
+					"ampModFreq" : [ 4.392659 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 20.856842 ],
+					"delay" : [ 22.77699 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.678189 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.779528 ],
+					"lpassModFreq" : [ 1.055379 ],
+					"pulseModFreq" : [ 22.022272 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 1.107999 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"40" : 			{
+				"id" : 40,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.519685 ],
+					"ampModFreq" : [ 228.729794 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 37.720875 ],
+					"delay" : [ 13.181129 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.362205 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.360215 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"41" : 			{
+				"id" : 41,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.582677 ],
+					"ampModFreq" : [ 8.323655 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 116.349335 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.592441 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 32.649012 ],
+					"rampTime" : [ 163.990328 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 471.510943 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"42" : 			{
+				"id" : 42,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.299213 ],
+					"ampModFreq" : [ 8.323655 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 110.809844 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.818504 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 15.745087 ],
+					"rampTime" : [ 225.990452 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.0 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"43" : 			{
+				"id" : 43,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.165354 ],
+					"ampModFreq" : [ 8.323655 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 20.856842 ],
+					"delay" : [ 22.77699 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.678189 ],
+					"harmonic" : [ 3.0 ],
+					"lpassModDepth" : [ 0.779528 ],
+					"lpassModFreq" : [ 1.055379 ],
+					"pulseModFreq" : [ 5.322363 ],
+					"rampTime" : [ 124.000248 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 4.356638 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"48" : 			{
+				"id" : 48,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.661417 ],
+					"ampModFreq" : [ 3.481052 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 37.720875 ],
+					"delay" : [ 13.181129 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.362205 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.360215 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"49" : 			{
+				"id" : 49,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.322835 ],
+					"ampModFreq" : [ 3.915672 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 116.349335 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 3.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.984068 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 471.510943 ],
+					"resonance" : [ 33.616035 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"50" : 			{
+				"id" : 50,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 110.809844 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.13252 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 8.689815 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"53" : 			{
+				"id" : 53,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.716535 ],
+					"ampModFreq" : [ 3.085911 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 58.335917 ],
+					"delay" : [ 26.787959 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.362205 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.360215 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"54" : 			{
+				"id" : 54,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.716535 ],
+					"ampModFreq" : [ 7.523925 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 58.335917 ],
+					"delay" : [ 68.643413 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.362205 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.360215 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"55" : 			{
+				"id" : 55,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.929134 ],
+					"ampModFreq" : [ 240.765605 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 58.335917 ],
+					"delay" : [ 64.758885 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.362205 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.360215 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"56" : 			{
+				"id" : 56,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.929134 ],
+					"ampModFreq" : [ 55.217707 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 76.390353 ],
+					"delay" : [ 269.172318 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.880866 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.362205 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 15.745087 ],
+					"rampTime" : [ 193.750388 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.016053 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"57" : 			{
+				"id" : 57,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 64.504929 ],
+					"delay" : [ 116.349335 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.133858 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.984068 ],
+					"rampTime" : [ 0.0 ],
+					"rampTime[1]" : [ 471.510943 ],
+					"rampTime[2]" : [ 471.510943 ],
+					"resonance" : [ 33.616035 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"58" : 			{
+				"id" : 58,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 110.809844 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.13252 ],
+					"harmonic" : [ 3.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 60.760122 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 24.264904 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"59" : 			{
+				"id" : 59,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 110.809844 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.13252 ],
+					"harmonic" : [ 5.0 ],
+					"lpassModDepth" : [ 0.0 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 60.760122 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 28.140115 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"60" : 			{
+				"id" : 60,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 1.072553 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.662598 ],
+					"harmonic" : [ 5.0 ],
+					"lpassModDepth" : [ 0.338583 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 60.760122 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 27.130707 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"61" : 			{
+				"id" : 61,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 1.072553 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.662598 ],
+					"harmonic" : [ 6.0 ],
+					"lpassModDepth" : [ 0.338583 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 60.760122 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 27.130707 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"62" : 			{
+				"id" : 62,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.0 ],
+					"ampModFreq" : [ 0.0 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 2.238204 ],
+					"delay" : [ 310.516149 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.85748 ],
+					"harmonic" : [ 6.0 ],
+					"lpassModDepth" : [ 0.338583 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 60.760122 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 9.569126 ],
+					"startComp" : [  ],
+					"startComp[1]" : [  ]
+				}
+
+			}
+,
+			"63" : 			{
+				"id" : 63,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.070866 ],
+					"ampModFreq" : [ 0.316469 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 15.500031 ],
+					"delay" : [ 310.516149 ],
+					"detune" : [ 0.273421 ],
+					"feedback" : [ 0.0 ],
+					"harmonic" : [ 5.0 ],
+					"lpassModDepth" : [ 0.338583 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 0.88929 ],
+					"rampTime" : [ 60.760122 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 30.243163 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+,
+			"64" : 			{
+				"id" : 64,
+				"data" : 				{
+					"AudioMix::active" : [ 1.0 ],
+					"AudioMix::gain" : [ -3.700787 ],
+					"AudioMix::pan" : [ 0.0 ],
+					"AudioMix::solo" : [ 0.0 ],
+					"ampModDepth[1]" : [ 0.070866 ],
+					"ampModFreq" : [ 0.006628 ],
+					"baseFreq" : [ 31.96063 ],
+					"cutOff" : [ 14.284829 ],
+					"delay" : [ 0.35589 ],
+					"detune" : [ 0.17918 ],
+					"feedback" : [ 0.919843 ],
+					"harmonic" : [ 4.0 ],
+					"lpassModDepth" : [ 0.338583 ],
+					"lpassModFreq" : [ 0.991821 ],
+					"pulseModFreq" : [ 3.517514 ],
+					"rampTime" : [ 60.760122 ],
+					"rampTime[1]" : [ 496.000992 ],
+					"rampTime[2]" : [ 260.710521 ],
+					"resonance" : [ 0.492034 ],
+					"startComp" : [ 0 ],
+					"startComp[1]" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

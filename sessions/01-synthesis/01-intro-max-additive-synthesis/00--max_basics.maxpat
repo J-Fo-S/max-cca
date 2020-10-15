@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 663.0, 79.0, 559.0, 448.0 ],
+		"rect" : [ 663.0, 79.0, 657.0, 448.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,13 +38,126 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-37",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 571.0, 271.0, 150.0, 20.0 ],
+					"style" : "",
+					"text" : "connect us!"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"format" : 6,
+					"id" : "obj-36",
+					"maxclass" : "flonum",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 498.0, 259.0, 50.0, 22.0 ],
+					"style" : ""
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-34",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 562.0, 388.0, 150.0, 20.0 ],
+					"style" : "",
+					"text" : "click me"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-32",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 513.0, 335.0, 150.0, 20.0 ],
+					"style" : "",
+					"text" : "connect us!"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-31",
+					"maxclass" : "ezdac~",
+					"numinlets" : 2,
+					"numoutlets" : 0,
+					"patching_rect" : [ 498.0, 380.0, 45.0, 45.0 ],
+					"style" : ""
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-30",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "signal" ],
+					"patching_rect" : [ 498.0, 295.0, 67.0, 22.0 ],
+					"style" : "",
+					"text" : "cycle~ 110"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-26",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 489.0, 231.0, 150.0, 20.0 ],
+					"style" : "",
+					"text" : "MSP SIGNAL",
+					"textcolor" : [ 0.92549, 0.364706, 0.341176, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-20",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 28.0, 24.0, 150.0, 20.0 ],
+					"style" : "",
+					"text" : "MAX SCHEDULER",
+					"textcolor" : [ 0.784314, 0.145098, 0.023529, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-9",
+					"linecount" : 13,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 419.0, 17.0, 231.0, 181.0 ],
+					"style" : "",
+					"text" : "useful keyboard shortcuts\n\ncommand+i for object information\nctrl+click for object help file\nclick+drag to highlight many objects\nshift+click to select multiple objects\nalt+click to highlight only patchcords\n\nmouse hover over inlets/outlets to see what can go in and what comes out\n\nmouse hover left side of object to learn params",
+					"textcolor" : [ 0.317647, 0.654902, 0.976471, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-28",
 					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 73.0, 431.0, 150.0, 33.0 ],
-					"presentation_rect" : [ 67.0, 424.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "1 if greater, 0 if not\n(< object)"
 				}
@@ -96,7 +209,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 173.0, 56.0, 150.0, 20.0 ],
-					"presentation_rect" : [ 174.0, 56.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "\"n\" for object"
 				}
